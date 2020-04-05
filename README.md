@@ -5,9 +5,9 @@ Shimelis
 ## program
 LIS
 # more lines
-addiitonal edits in the branch
+additional edits in the branch
 # more lines
-addiitonal edits in the branch
+additional edits in the branch
 # definition
 data visualization means data visualized
 # more
