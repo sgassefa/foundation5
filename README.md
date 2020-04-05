@@ -8,3 +8,7 @@ LIS
 addiitonal edits in the branch
 # more lines
 addiitonal edits in the branch
+# definition
+data visualization means data visualized
+# more
+more from RStudio
